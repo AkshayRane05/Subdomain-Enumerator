@@ -1,0 +1,4 @@
+myenv/
+discovered_subdomains.txt
+subdomains.txt
+dns_enum.py
